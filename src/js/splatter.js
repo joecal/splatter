@@ -99,8 +99,10 @@ function init() {
 
 	start = true;
 
+	var loading = document.getElementById( 'loading' );
 	var directions = document.getElementById( 'directions' );
 
+	loading.style.opacity = 0;
 	directions.style.opacity = 1;
 
 	controls.addEventListener( 'change', function() {

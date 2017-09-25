@@ -4,7 +4,7 @@ const path = require('path');
 const compression = require('compression')
 const port = process.env.PORT || 3000;
 
-app.use(compression())
+app.use(compression());
 
 app.use(express.static(path.join(__dirname, './src')));
 
