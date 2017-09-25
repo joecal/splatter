@@ -1,0 +1,222 @@
+colorData = {
+  "palette1": [
+    "0xed6a5a",
+  	"0xf4f1bb",
+  	"0x9bc1bc",
+  	"0x5ca4a9",
+  	"0xe6ebe0",
+  	"0xf0b67f",
+  	"0xfe5f55",
+  	"0xd6d1b1",
+  	"0xc7efcf",
+  	"0xeef5db",
+  	"0x50514f",
+  	"0xf25f5c",
+  	"0xffe066",
+  	"0x247ba0",
+  	"0x70c1b3"
+  ],
+  "palette2": [
+    "0x3b5998",
+    "0x8b9dc3",
+    "0xdfe3ee",
+    "0xf7f7f7",
+    "0xffffff"
+  ],
+  "palette3": [
+    "0xffe0bd",
+    "0xffcd94",
+    "0xeac086",
+    "0xffad60",
+    "0xffe39f"
+  ],
+  "palette4": [
+    "0xd9534f",
+    "0xf9f9f9",
+    "0x5bc0de",
+    "0x5cb85c",
+    "0x428bca"
+  ],
+  "palette5": [
+    "0x008744",
+    "0x0057e7",
+    "0xd62d20",
+    "0xffa700",
+    "0xffffff"
+  ],
+  "palette6": [
+    "0x999999",
+    "0x777777",
+    "0x555555",
+    "0x333333",
+    "0x111111"
+  ],
+  "palette7": [
+    "0xff0000",
+    "0x00ff00",
+    "0x0000ff",
+    "0xeeeeee",
+    "0x000000"
+  ],
+  "palette8": [
+    "0x4b3832",
+    "0x854442",
+    "0xfff4e6",
+    "0x3c2f2f",
+    "0xbe9b7b"
+  ],
+  "palette9": [
+    "0xa67c00",
+    "0xbf9b30",
+    "0xffbf00",
+    "0xffcf40",
+    "0xffdc73"
+  ],
+  "palette10": [
+    "0x96ceb4",
+    "0xffeead",
+    "0xff6f69",
+    "0xffcc5c",
+    "0x88d8b0"
+  ],
+  "palette11": [
+    "0xd11141",
+    "0x00b159",
+    "0x00aedb",
+    "0xf37735",
+    "0xffc425"
+  ],
+  "palette12": [
+    "0x740001",
+    "0xae0001",
+    "0xeeba30",
+    "0xd3a625",
+    "0x000000"
+  ],
+  "palette13": [
+    "0xe1f7d5",
+    "0xffbdbd",
+    "0xc9c9ff",
+    "0xffffff",
+    "0xf1cbff"
+  ],
+  "palette14": [
+    "0x011f4b",
+    "0x03396c",
+    "0x005b96",
+    "0x6497b1",
+    "0xb3cde0"
+  ],
+  "palette15": [
+    "0x373854",
+    "0x493267",
+    "0x9e379f",
+    "0xe86af0",
+    "0x7bb3ff"
+  ],
+  "palette16": [
+    "0xb3ecec",
+    "0x89ecda",
+    "0x43e8d8",
+    "0x40e0d0",
+    "0x3bd6c6"
+  ],
+  "palette17": [
+    "0x1b85b8",
+    "0x5a5255",
+    "0x559e83",
+    "0xae5a41",
+    "0xc3cb71"
+  ],
+  "palette18": [
+    "0x343d46",
+    "0x4f5b66",
+    "0x65737e",
+    "0xa7adba",
+    "0xc0c5ce"
+  ],
+  "palette19": [
+    "0xffb3ba",
+    "0xffdfba",
+    "0xffffba",
+    "0xbaffc9",
+    "0xbae1ff"
+  ],
+  "palette20": [
+    "0x009688",
+    "0x35a79c",
+    "0x54b2a9",
+    "0x65c3ba",
+    "0x83d0c9"
+  ],
+  "palette21": [
+    "0x007777",
+    "0x006666",
+    "0x005555",
+    "0x004444",
+    "0x003333"
+  ],
+  "palette22": [
+    "0x00aedb",
+    "0xa200ff",
+    "0xf47835",
+    "0xd41243",
+    "0x8ec127"
+  ],
+  "palette23": [
+    "0x666547",
+    "0xfb2e01",
+    "0x6fcb9f",
+    "0xffe28a",
+    "0xfffeb3"
+  ],
+  "palette24": [
+    "0xadff00",
+    "0x74d600",
+    "0x028900",
+    "0x00d27f",
+    "0x00ff83"
+  ],
+  "palette25": [
+    "0x0e1a40",
+    "0x222f5b",
+    "0x5d5d5d",
+    "0x946b2d",
+    "0x000000"
+  ],
+  "palette26": [
+    "0xefbbff",
+    "0xd896ff",
+    "0xbe29ec",
+    "0x800080",
+    "0x660066"
+  ],
+  "palette27": [
+    "0xa3c1ad",
+    "0xa0d6b4",
+    "0x5f9ea0",
+    "0x317873",
+    "0x49796b"
+  ],
+  "palette28": [
+    "0xdc6900",
+    "0xeb8c00",
+    "0xe0301e",
+    "0xa32020",
+    "0x602320"
+  ],
+  "palette29": [
+    "0x1a472a",
+    "0x2a623d",
+    "0x5d5d5d",
+    "0xaaaaaa",
+    "0x000000"
+  ],
+  "palette30": [
+    "0xee4035",
+    "0xf37736",
+    "0xfdf498",
+    "0x7bc043",
+    "0x0392cf"
+  ]
+};
