@@ -59,8 +59,7 @@ window.addEventListener( 'load', function() {
 
 	decalDiffuse = textureLoader.load( 'assets/transparent.png' );
 
-	normalMap = textureLoader.load( 'assets/textures/normal/normal-map-75.jpg' );
-	// normalMap = textureLoader.load( textureData.normal[ ~~Maf.randomInRange( 0, textureData.normal.length + 1 ) ] );
+	normalMap = textureLoader.load( textureData.normal[ ~~Maf.randomInRange( 0, textureData.normal.length + 1 ) ] );
 
 	decalMaterial = new THREE.MeshPhongMaterial( {
 		map: decalDiffuse,
