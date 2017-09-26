@@ -179,10 +179,10 @@ function onWindowResize() {
 
 function animate() {
 
-	if (!moved && shooting) shoot();
-
 	requestAnimationFrame( animate );
 
 	renderer.render( scene, camera );
+
+	if (!moved && shooting) shoot();
 
 }
