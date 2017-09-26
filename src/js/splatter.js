@@ -102,6 +102,7 @@ function init() {
 	var loading = document.getElementById( 'loading' );
 	var directions = document.getElementById( 'directions' );
 
+	loading.classList.remove('fadein');
 	loading.classList.remove('pulsate');
 	loading.style.opacity = 0;
 	directions.style.opacity = 1;
